@@ -485,7 +485,9 @@ ol {
 
 /* Icon Box */
 .icon-box {
+    
 	margin-bottom: 70px;
+
 }
 
 .icon-box i {
@@ -1692,4 +1694,7 @@ ol {
 	.footer-section h2 {
 		font-size: 33px;
 	}
+}
+.big {
+    font-size: 150%;
 }
