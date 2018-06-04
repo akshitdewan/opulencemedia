@@ -946,6 +946,9 @@ ol {
 .contact-text .con-info {
 	list-style: none;
 }
+.con-info li {
+    list-style:none;
+}
 
 .contact-text .con-info li {
 	color: #fff;
