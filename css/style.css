@@ -745,7 +745,10 @@ ol {
 	Intro section
 -----------------------*/
 .intro-text {
-	padding-top: 70px;
+	padding-top: 25px;
+}
+.intro-text2 {
+	padding-top: 45px;
 }
 
 .intro-text p {
@@ -1697,4 +1700,16 @@ ol {
 }
 .big {
     font-size: 150%;
+}
+
+.nobottom {
+    padding-bottom: 0px !important;
+}
+
+.lessbig {
+    font-size : 125%;
+}
+
+.evenlessbig {
+    font-size: 110%;
 }
